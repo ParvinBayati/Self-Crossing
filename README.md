@@ -9,6 +9,11 @@ There is a better method to solve this problem without running into time or memo
 
 Define Conditions for Self-Crossing (fast method):
 A self-crossing can occur in different cases, and you need to define conditions for each:
+
+
+![Self Crossing](https://github.com/ParvinBayati/Self-Crossing/assets/91033182/6bef7f9c-2475-4e2f-b5c6-ddd17278bda9)
+
+
 •	Case 1: If the current line crosses the line three steps back. It means that there is a crossing at i and i-3 lines.
 
 •	Case 2: If the current line crosses the line four steps back and the current line is greater than or equal to the line two steps back.
